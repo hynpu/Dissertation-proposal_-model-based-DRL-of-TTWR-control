@@ -1,0 +1,35 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Truck trailer system in daily life}}{1}{figure.caption.2}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces MBRL based on known model}}{9}{figure.caption.3}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Map of path planning methods}}{14}{figure.caption.4}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Map of control theory\blx@tocontentsinit {0}\parencite {EngineeringMedia}}}{16}{figure.caption.5}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Comparison between traditional hierarchical vehicle control system and end to end vehicle control system}}{19}{figure.caption.6}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Model-based reinforcement learning schema}}{22}{figure.caption.7}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Kinematic full-track model of TTWR}}{26}{figure.caption.9}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Simplified bicycle kinematic model of TTWR}}{27}{figure.caption.10}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Open loop respond comparison between the positive and negative truck velocity}}{35}{figure.caption.11}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Dubins path starting from point (1, 1) with heading angle $\frac {-\pi }{4}$ and ending at (-3, -3) with heading angle 0}}{37}{figure.caption.12}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Four patterns under CSC type }}{38}{figure.caption.13}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Four patterns under CCC type }}{39}{figure.caption.14}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Different Dubins contruction pattern for the same start and finish condition}}{41}{figure.caption.15}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces LQR controller schematic diagram}}{43}{figure.caption.16}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces LQR controller reference states error}}{45}{figure.caption.17}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces The simulation of using Dubins and LQR for TTWR reverse driving control}}{47}{figure.caption.18}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces The system states of the LQR controller}}{48}{figure.caption.19}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Function principle of a model-based predictive \blx@tocontentsinit {0}\parencite {schwenzer2021review}}}{50}{figure.caption.20}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Illustration of the clip function, where the probability ratio $r$ is clipped at $1-\epsilon $ or $1+\epsilon $ depending on the polarity of the advantage}}{56}{figure.caption.21}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces TTWR autonomous parking system layout}}{57}{figure.caption.22}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces TTWR perpendicular parking}}{60}{figure.caption.23}%
+\contentsline {figure}{\numberline {5.13}{\ignorespaces TTWR oblique parking}}{60}{figure.caption.24}%
+\contentsline {figure}{\numberline {5.14}{\ignorespaces The MBRl structure with Dubins trajectory model generator}}{61}{figure.caption.25}%
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Vehicle kinematics model with reference}}{64}{figure.caption.26}%
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Mean episode length comparison between RPPO training on 2 meters trailer, PPO training on both 2 meters and 4 meters trailer}}{65}{figure.caption.27}%
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Mean episode training reward comparison between PPO training on both 2 meters and 4 meters trailer}}{65}{figure.caption.28}%
+\contentsline {figure}{\numberline {5.18}{\ignorespaces The comparison of LQR controller and proposed algorithm controlling normal 2m trailer v.s. reference trajectory orientation error, trailer orientation error, and trailer lateral offset error}}{66}{figure.caption.29}%
+\contentsline {figure}{\numberline {5.19}{\ignorespaces The comparison of LQR controller and proposed algorithm controlling extended trailer v.s. reference trajectory orientation error, trailer orientation error, and trailer lateral offset error}}{67}{figure.caption.30}%
+\addvspace {10\p@ }
+\contentsfinish 

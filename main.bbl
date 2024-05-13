@@ -1,0 +1,2136 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global}
+  \entry{Koenig_heavy_truck_AD}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=KB}{%
+         family={Koenig},
+         familyi={K\bibinitperiod},
+         given={Bill},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KB1}
+    \strng{fullhash}{KB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{With {Heavy} {Vehicles}, {Self}-{Driving} {Is} {Old} {Hat} -
+  {The} {Robotics} {Institute} {Carnegie} {Mellon} {University}}
+    \verb{url}
+    \verb https://www.ri.cmu.edu/heavy-vehicles-self-driving-old-hat/
+    \endverb
+    \field{urlday}{06}
+    \field{urlmonth}{08}
+    \field{urlyear}{2023}
+  \endentry
+
+  \entry{chen2019model}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=CJ}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Jianyu},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=YB}{%
+         family={Yuan},
+         familyi={Y\bibinitperiod},
+         given={Bodi},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=TM}{%
+         family={Tomizuka},
+         familyi={T\bibinitperiod},
+         given={Masayoshi},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{CJYBTM1}
+    \strng{fullhash}{CJYBTM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2019 IEEE intelligent transportation systems conference
+  (ITSC)}
+    \field{pages}{2765\bibrangedash 2771}
+    \field{title}{Model-free deep reinforcement learning for urban autonomous
+  driving}
+    \field{year}{2019}
+  \endentry
+
+  \entry{shaout2022adas}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=SA}{%
+         family={Shaout},
+         familyi={S\bibinitperiod},
+         given={Adnan},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Shaout},
+         familyi={S\bibinitperiod},
+         given={Abdelrahman},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=VSA}{%
+         family={Varagiri},
+         familyi={V\bibinitperiod},
+         given={Sadhvi\bibnamedelima Ajit},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{SASAVSA1}
+    \strng{fullhash}{SASAVSA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2022 International Arab Conference on Information
+  Technology (ACIT)}
+    \field{pages}{1\bibrangedash 7}
+    \field{title}{ADAS Technology Classifications Using a Modified Agile
+  Process}
+    \field{year}{2022}
+  \endentry
+
+  \entry{liu2022review}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=LQ}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Qiang},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=LX}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Xueyuan},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=ZY}{%
+         family={Zhu},
+         familyi={Z\bibinitperiod},
+         given={Yuzheng},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Songhao},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LQLXZY+1}
+    \strng{fullhash}{LQLXZYLS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the 2022 2nd International Conference on
+  Control and Intelligent Robotics}
+    \field{pages}{863\bibrangedash 867}
+    \field{title}{A Review of Tracking Control Method for Tractor-Trailer
+  Vehicles}
+    \field{year}{2022}
+  \endentry
+
+  \entry{jing2019control}{inproceedings}{}
+    \name{author}{6}{}{%
+      {{hash=JJ}{%
+         family={Jing},
+         familyi={J\bibinitperiod},
+         given={Junbo},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MJM}{%
+         family={Maroli},
+         familyi={M\bibinitperiod},
+         given={John\bibnamedelima M},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=SYB}{%
+         family={Salamah},
+         familyi={S\bibinitperiod},
+         given={Yasser\bibnamedelima Bin},
+         giveni={Y\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Hejase},
+         familyi={H\bibinitperiod},
+         given={Mohammad},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=FL}{%
+         family={Fiorentini},
+         familyi={F\bibinitperiod},
+         given={Lisa},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=OU}{%
+         family={{\"O}zg{\"u}ner},
+         familyi={{\"O}\bibinitperiod},
+         given={{\"U}mit},
+         giveni={{\"U}\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{JJMJMSYB+1}
+    \strng{fullhash}{JJMJMSYBHMFLOU1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2019 American Control Conference (ACC)}
+    \field{pages}{5531\bibrangedash 5537}
+    \field{title}{Control method designs and comparisons for tractor-trailer
+  vehicle backward path tracking}
+    \field{year}{2019}
+  \endentry
+
+  \entry{xu2023improving}{article}{}
+    \name{author}{5}{}{%
+      {{hash=XH}{%
+         family={Xu},
+         familyi={X\bibinitperiod},
+         given={Haotian},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=YZ}{%
+         family={Yan},
+         familyi={Y\bibinitperiod},
+         given={Zheng},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=XJ}{%
+         family={Xuan},
+         familyi={X\bibinitperiod},
+         given={Junyu},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ZG}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Guangquan},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Lu},
+         familyi={L\bibinitperiod},
+         given={Jie},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{XHYZXJ+1}
+    \strng{fullhash}{XHYZXJZGLJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{94\bibrangedash 105}
+    \field{title}{Improving proximal policy optimization with alpha divergence}
+    \field{volume}{534}
+    \field{journaltitle}{Neurocomputing}
+    \field{year}{2023}
+  \endentry
+
+  \entry{zanchetta2019trailer}{article}{}
+    \name{author}{9}{}{%
+      {{hash=ZM}{%
+         family={Zanchetta},
+         familyi={Z\bibinitperiod},
+         given={Mattia},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=TD}{%
+         family={Tavernini},
+         familyi={T\bibinitperiod},
+         given={Davide},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Sorniotti},
+         familyi={S\bibinitperiod},
+         given={Aldo},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GP}{%
+         family={Gruber},
+         familyi={G\bibinitperiod},
+         given={Patrick},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=LB}{%
+         family={Lenzo},
+         familyi={L\bibinitperiod},
+         given={Basilio},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=FA}{%
+         family={Ferrara},
+         familyi={F\bibinitperiod},
+         given={Antonella},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SK}{%
+         family={Sannen},
+         familyi={S\bibinitperiod},
+         given={Koen},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=DSJ}{%
+         family={De\bibnamedelima Smet},
+         familyi={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+         given={Jasper},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DNW}{%
+         family={De\bibnamedelima Nijs},
+         familyi={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+         given={Wouter},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{ZMTDSA+1}
+    \strng{fullhash}{ZMTDSAGPLBFASKDSJDNW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{102282}
+    \field{title}{Trailer control through vehicle yaw moment control:
+  Theoretical analysis and experimental assessment}
+    \field{volume}{64}
+    \field{journaltitle}{Mechatronics}
+    \field{year}{2019}
+  \endentry
+
+  \entry{ye2020automated}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=YF}{%
+         family={Ye},
+         familyi={Y\bibinitperiod},
+         given={Fei},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=CX}{%
+         family={Cheng},
+         familyi={C\bibinitperiod},
+         given={Xuxin},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=WP}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Pin},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=CCY}{%
+         family={Chan},
+         familyi={C\bibinitperiod},
+         given={Ching-Yao},
+         giveni={C\bibinithyphendelim Y\bibinitperiod},
+      }}%
+      {{hash=ZJ}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Jiucai},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{YFCXWP+1}
+    \strng{fullhash}{YFCXWPCCYZJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2020 IEEE Intelligent Vehicles Symposium (IV)}
+    \field{pages}{1746\bibrangedash 1752}
+    \field{title}{Automated lane change strategy using proximal policy
+  optimization-based deep reinforcement learning}
+    \field{year}{2020}
+  \endentry
+
+  \entry{brunton2022data}{book}{}
+    \name{author}{2}{}{%
+      {{hash=BSL}{%
+         family={Brunton},
+         familyi={B\bibinitperiod},
+         given={Steven\bibnamedelima L},
+         giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=KJN}{%
+         family={Kutz},
+         familyi={K\bibinitperiod},
+         given={J\bibnamedelima Nathan},
+         giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{BSLKJN1}
+    \strng{fullhash}{BSLKJN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Data-driven science and engineering: Machine learning,
+  dynamical systems, and control}
+    \field{year}{2022}
+  \endentry
+
+  \entry{chen2019crowd}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=CC}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Changan},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=LY}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Yuejiang},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=KS}{%
+         family={Kreiss},
+         familyi={K\bibinitperiod},
+         given={Sven},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=AA}{%
+         family={Alahi},
+         familyi={A\bibinitperiod},
+         given={Alexandre},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{CCLYKS+1}
+    \strng{fullhash}{CCLYKSAA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2019 international conference on robotics and automation
+  (ICRA)}
+    \field{pages}{6015\bibrangedash 6022}
+    \field{title}{Crowd-robot interaction: Crowd-aware robot navigation with
+  attention-based deep reinforcement learning}
+    \field{year}{2019}
+  \endentry
+
+  \entry{du2020trajectory}{article}{}
+    \name{author}{3}{}{%
+      {{hash=DZ}{%
+         family={Du},
+         familyi={D\bibinitperiod},
+         given={Zhuo},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=MQ}{%
+         family={Miao},
+         familyi={M\bibinitperiod},
+         given={Qiheng},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=ZC}{%
+         family={Zong},
+         familyi={Z\bibinitperiod},
+         given={Changfu},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{DZMQZC1}
+    \strng{fullhash}{DZMQZC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{881\bibrangedash 887}
+    \field{title}{Trajectory planning for automated parking systems using deep
+  reinforcement learning}
+    \field{volume}{21}
+    \field{journaltitle}{International Journal of Automotive Technology}
+    \field{year}{2020}
+  \endentry
+
+  \entry{jaritz2018end}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=JM}{%
+         family={Jaritz},
+         familyi={J\bibinitperiod},
+         given={Maximilian},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DCR}{%
+         family={De\bibnamedelima Charette},
+         familyi={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+         given={Raoul},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=TM}{%
+         family={Toromanoff},
+         familyi={T\bibinitperiod},
+         given={Marin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=PE}{%
+         family={Perot},
+         familyi={P\bibinitperiod},
+         given={Etienne},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=NF}{%
+         family={Nashashibi},
+         familyi={N\bibinitperiod},
+         given={Fawzi},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{JMDCRTM+1}
+    \strng{fullhash}{JMDCRTMPENF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2018 IEEE international conference on robotics and
+  automation (ICRA)}
+    \field{pages}{2070\bibrangedash 2075}
+    \field{title}{End-to-end race driving with deep reinforcement learning}
+    \field{year}{2018}
+  \endentry
+
+  \entry{wang2021policy}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=WQ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Qiqi},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Cheng},
+         familyi={C\bibinitperiod},
+         given={Jin},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ZH}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Han},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{WQCJZH1}
+    \strng{fullhash}{WQCJZH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the 11th International Conference on
+  Computer Engineering and Networks}
+    \field{pages}{303\bibrangedash 311}
+    \field{title}{Policy Gradient Reinforcement Learning Method for Backward
+  Motion Control of Tractor-Trailer Mobile Robot}
+    \field{year}{2021}
+  \endentry
+
+  \entry{bejar2019preview}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=BE}{%
+         family={Bejar},
+         familyi={B\bibinitperiod},
+         given={Eduardo},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Moran},
+         familyi={M\bibinitperiod},
+         given={Antonio},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{BEMA1}
+    \strng{fullhash}{BEMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2019 IEEE Canadian Conference of Electrical and Computer
+  Engineering (CCECE)}
+    \field{pages}{1\bibrangedash 4}
+    \field{title}{A preview neuro-fuzzy controller based on deep reinforcement
+  learning for backing up a truck-trailer vehicle}
+    \field{year}{2019}
+  \endentry
+
+  \entry{sprayberry2023data}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=SMA}{%
+         family={Sprayberry},
+         familyi={S\bibinitperiod},
+         given={Michael\bibnamedelima Allen},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SMA1}
+    \strng{fullhash}{SMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{A Data-Driven Approach to Process Parameter Optimization in
+  Additive Manufacturing via Electron Beam Melting}
+    \list{institution}{1}{%
+      {Northcentral University}%
+    }
+    \field{type}{phdthesis}
+    \field{year}{2023}
+  \endentry
+
+  \entry{buehler20072005}{book}{}
+    \name{author}{3}{}{%
+      {{hash=BM}{%
+         family={Buehler},
+         familyi={B\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=IK}{%
+         family={Iagnemma},
+         familyi={I\bibinitperiod},
+         given={Karl},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Singh},
+         familyi={S\bibinitperiod},
+         given={Sanjiv},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {springer}%
+    }
+    \strng{namehash}{BMIKSS1}
+    \strng{fullhash}{BMIKSS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{The 2005 DARPA grand challenge: the great robot race}
+    \field{volume}{36}
+    \field{year}{2007}
+  \endentry
+
+  \entry{buehler2009darpa}{book}{}
+    \name{author}{3}{}{%
+      {{hash=BM}{%
+         family={Buehler},
+         familyi={B\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=IK}{%
+         family={Iagnemma},
+         familyi={I\bibinitperiod},
+         given={Karl},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Singh},
+         familyi={S\bibinitperiod},
+         given={Sanjiv},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {springer}%
+    }
+    \strng{namehash}{BMIKSS1}
+    \strng{fullhash}{BMIKSS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{The DARPA urban challenge: autonomous vehicles in city
+  traffic}
+    \field{volume}{56}
+    \field{year}{2009}
+  \endentry
+
+  \entry{reeds1990optimal}{article}{}
+    \name{author}{2}{}{%
+      {{hash=RJ}{%
+         family={Reeds},
+         familyi={R\bibinitperiod},
+         given={James},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SL}{%
+         family={Shepp},
+         familyi={S\bibinitperiod},
+         given={Lawrence},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Mathematical Sciences Publishers}%
+    }
+    \strng{namehash}{RJSL1}
+    \strng{fullhash}{RJSL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2}
+    \field{pages}{367\bibrangedash 393}
+    \field{title}{Optimal paths for a car that goes both forwards and
+  backwards}
+    \field{volume}{145}
+    \field{journaltitle}{Pacific journal of mathematics}
+    \field{year}{1990}
+  \endentry
+
+  \entry{dijkstra2022note}{incollection}{}
+    \name{author}{1}{}{%
+      {{hash=DEW}{%
+         family={Dijkstra},
+         familyi={D\bibinitperiod},
+         given={Edsger\bibnamedelima W},
+         giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DEW1}
+    \strng{fullhash}{DEW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Edsger Wybe Dijkstra: His Life, Work, and Legacy}
+    \field{pages}{287\bibrangedash 290}
+    \field{title}{A note on two problems in connexion with graphs}
+    \field{year}{2022}
+  \endentry
+
+  \entry{hart1968formal}{article}{}
+    \name{author}{3}{}{%
+      {{hash=HPE}{%
+         family={Hart},
+         familyi={H\bibinitperiod},
+         given={Peter\bibnamedelima E},
+         giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=NNJ}{%
+         family={Nilsson},
+         familyi={N\bibinitperiod},
+         given={Nils\bibnamedelima J},
+         giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=RB}{%
+         family={Raphael},
+         familyi={R\bibinitperiod},
+         given={Bertram},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{HPENNJRB1}
+    \strng{fullhash}{HPENNJRB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2}
+    \field{pages}{100\bibrangedash 107}
+    \field{title}{A formal basis for the heuristic determination of minimum
+  cost paths}
+    \field{volume}{4}
+    \field{journaltitle}{IEEE transactions on Systems Science and Cybernetics}
+    \field{year}{1968}
+  \endentry
+
+  \entry{dudi2020shortest}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=DT}{%
+         family={Dudi},
+         familyi={D\bibinitperiod},
+         given={Tanishk},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Singhal},
+         familyi={S\bibinitperiod},
+         given={Rahul},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=KR}{%
+         family={Kumar},
+         familyi={K\bibinitperiod},
+         given={Rajesh},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{DTSRKR1}
+    \strng{fullhash}{DTSRKR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2020 59th Annual Conference of the Society of Instrument
+  and Control Engineers of Japan (SICE)}
+    \field{pages}{451\bibrangedash 456}
+    \field{title}{Shortest Path Evaluation with Enhanced Linear Graph and
+  Dijkstra Algorithm}
+    \field{year}{2020}
+  \endentry
+
+  \entry{stentz1994optimal}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=SA}{%
+         family={Stentz},
+         familyi={S\bibinitperiod},
+         given={Anthony},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{SA1}
+    \strng{fullhash}{SA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the 1994 IEEE international conference on
+  robotics and automation}
+    \field{pages}{3310\bibrangedash 3317}
+    \field{title}{Optimal and efficient path planning for partially-known
+  environments}
+    \field{year}{1994}
+  \endentry
+
+  \entry{lavalle1998rapidly}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LS}{%
+         family={LaValle},
+         familyi={L\bibinitperiod},
+         given={Steven},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Department of Computer Science, Iowa State University}%
+    }
+    \strng{namehash}{LS1}
+    \strng{fullhash}{LS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Rapidly-exploring random trees: A new tool for path planning}
+    \field{journaltitle}{Research Report 9811}
+    \field{year}{1998}
+  \endentry
+
+  \entry{ammar2016relaxed}{article}{}
+    \name{author}{5}{}{%
+      {{hash=AA}{%
+         family={Ammar},
+         familyi={A\bibinitperiod},
+         given={Adel},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BH}{%
+         family={Bennaceur},
+         familyi={B\bibinitperiod},
+         given={Hachemi},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=CI}{%
+         family={Ch{\^a}ari},
+         familyi={C\bibinitperiod},
+         given={Imen},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Koub{\^a}a},
+         familyi={K\bibinitperiod},
+         given={Anis},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=AM}{%
+         family={Alajlan},
+         familyi={A\bibinitperiod},
+         given={Maram},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{AABHCI+1}
+    \strng{fullhash}{AABHCIKAAM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{4149\bibrangedash 4171}
+    \field{title}{Relaxed Dijkstra and A* with linear complexity for robot path
+  planning problems in large-scale grid environments}
+    \field{volume}{20}
+    \field{journaltitle}{Soft Computing}
+    \field{year}{2016}
+  \endentry
+
+  \entry{mcmahon2022survey}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{4}{}{%
+      {{hash=MT}{%
+         family={McMahon},
+         familyi={M\bibinitperiod},
+         given={Troy},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Sivaramakrishnan},
+         familyi={S\bibinitperiod},
+         given={Aravind},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GE}{%
+         family={Granados},
+         familyi={G\bibinitperiod},
+         given={Edgar},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=BKE}{%
+         family={Bekris},
+         familyi={B\bibinitperiod},
+         given={Kostas\bibnamedelima E},
+         giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Now Publishers, Inc.}%
+    }
+    \strng{namehash}{MTSAGE+1}
+    \strng{fullhash}{MTSAGEBKE+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{4}
+    \field{pages}{266\bibrangedash 327}
+    \field{title}{A survey on the integration of machine learning with
+  sampling-based motion planning}
+    \field{volume}{9}
+    \field{journaltitle}{Foundations and Trends{\textregistered} in Robotics}
+    \field{year}{2022}
+  \endentry
+
+  \entry{EngineeringMedia}{misc}{}
+    \verb{url}
+    \verb https://engineeringmedia.com/map-of-control
+    \endverb
+    \field{journaltitle}{Engineering Media}
+  \endentry
+
+  \entry{bennett1996brief}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BS}{%
+         family={Bennett},
+         familyi={B\bibinitperiod},
+         given={Stuart},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{BS1}
+    \strng{fullhash}{BS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{3}
+    \field{pages}{17\bibrangedash 25}
+    \field{title}{A brief history of automatic control}
+    \field{volume}{16}
+    \field{journaltitle}{IEEE Control Systems Magazine}
+    \field{year}{1996}
+  \endentry
+
+  \entry{saraf2020comparative}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=SP}{%
+         family={Saraf},
+         familyi={S\bibinitperiod},
+         given={Prathamesh},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Gupta},
+         familyi={G\bibinitperiod},
+         given={Manan},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=PAM}{%
+         family={Parimi},
+         familyi={P\bibinitperiod},
+         given={Alivelu\bibnamedelima Manga},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{SPGMPAM1}
+    \strng{fullhash}{SPGMPAM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2020 IEEE 17th India Council International Conference
+  (INDICON)}
+    \field{pages}{1\bibrangedash 6}
+    \field{title}{A comparative study between a classical and optimal
+  controller for a quadrotor}
+    \field{year}{2020}
+  \endentry
+
+  \entry{urmson2008autonomous}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{10}{}{%
+      {{hash=UC}{%
+         family={Urmson},
+         familyi={U\bibinitperiod},
+         given={Chris},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=AJ}{%
+         family={Anhalt},
+         familyi={A\bibinitperiod},
+         given={Joshua},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BD}{%
+         family={Bagnell},
+         familyi={B\bibinitperiod},
+         given={Drew},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=BC}{%
+         family={Baker},
+         familyi={B\bibinitperiod},
+         given={Christopher},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Bittner},
+         familyi={B\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={Clark},
+         familyi={C\bibinitperiod},
+         given={MN},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Dolan},
+         familyi={D\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DD}{%
+         family={Duggins},
+         familyi={D\bibinitperiod},
+         given={Dave},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=GT}{%
+         family={Galatali},
+         familyi={G\bibinitperiod},
+         given={Tugrul},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=GC}{%
+         family={Geyer},
+         familyi={G\bibinitperiod},
+         given={Chris},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{UCAJBD+1}
+    \strng{fullhash}{UCAJBDBCBRCMDJDDGTGC+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{8}
+    \field{pages}{425\bibrangedash 466}
+    \field{title}{Autonomous driving in urban environments: Boss and the urban
+  challenge}
+    \field{volume}{25}
+    \field{journaltitle}{Journal of field Robotics}
+    \field{year}{2008}
+  \endentry
+
+  \entry{buehler2009junior}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BM}{%
+         family={Buehler},
+         familyi={B\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=IK}{%
+         family={Iagnemma},
+         familyi={I\bibinitperiod},
+         given={Karl},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Singh},
+         familyi={S\bibinitperiod},
+         given={Sanjiv},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {springer}%
+    }
+    \strng{namehash}{BMIKSS1}
+    \strng{fullhash}{BMIKSS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{91\bibrangedash 123}
+    \field{title}{Junior: the Stanford entry in the urban challenge}
+    \field{volume}{56}
+    \field{journaltitle}{The DARPA urban challenge: autonomous vehicles in city
+  traffic}
+    \field{year}{2009}
+  \endentry
+
+  \entry{bojarski2016end}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{10}{}{%
+      {{hash=BM}{%
+         family={Bojarski},
+         familyi={B\bibinitperiod},
+         given={Mariusz},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DTD}{%
+         family={Del\bibnamedelima Testa},
+         familyi={D\bibinitperiod\bibinitdelim T\bibinitperiod},
+         given={Davide},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=DD}{%
+         family={Dworakowski},
+         familyi={D\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=FB}{%
+         family={Firner},
+         familyi={F\bibinitperiod},
+         given={Bernhard},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=FB}{%
+         family={Flepp},
+         familyi={F\bibinitperiod},
+         given={Beat},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=GP}{%
+         family={Goyal},
+         familyi={G\bibinitperiod},
+         given={Prasoon},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=JLD}{%
+         family={Jackel},
+         familyi={J\bibinitperiod},
+         given={Lawrence\bibnamedelima D},
+         giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Monfort},
+         familyi={M\bibinitperiod},
+         given={Mathew},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MU}{%
+         family={Muller},
+         familyi={M\bibinitperiod},
+         given={Urs},
+         giveni={U\bibinitperiod},
+      }}%
+      {{hash=ZJ}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Jiakai},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BMDTDDD+1}
+    \strng{fullhash}{BMDTDDDFBFBGPJLDMMMUZJ+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{End to end learning for self-driving cars}
+    \field{journaltitle}{arXiv preprint arXiv:1604.07316}
+    \field{year}{2016}
+  \endentry
+
+  \entry{kendall2019learning}{inproceedings}{}
+    \name{author}{9}{}{%
+      {{hash=KA}{%
+         family={Kendall},
+         familyi={K\bibinitperiod},
+         given={Alex},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Hawke},
+         familyi={H\bibinitperiod},
+         given={Jeffrey},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=JD}{%
+         family={Janz},
+         familyi={J\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MP}{%
+         family={Mazur},
+         familyi={M\bibinitperiod},
+         given={Przemyslaw},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=RD}{%
+         family={Reda},
+         familyi={R\bibinitperiod},
+         given={Daniele},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=AJM}{%
+         family={Allen},
+         familyi={A\bibinitperiod},
+         given={John-Mark},
+         giveni={J\bibinithyphendelim M\bibinitperiod},
+      }}%
+      {{hash=LVD}{%
+         family={Lam},
+         familyi={L\bibinitperiod},
+         given={Vinh-Dieu},
+         giveni={V\bibinithyphendelim D\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Bewley},
+         familyi={B\bibinitperiod},
+         given={Alex},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Shah},
+         familyi={S\bibinitperiod},
+         given={Amar},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{KAHJJD+1}
+    \strng{fullhash}{KAHJJDMPRDAJMLVDBASA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2019 International Conference on Robotics and Automation
+  (ICRA)}
+    \field{pages}{8248\bibrangedash 8254}
+    \field{title}{Learning to drive in a day}
+    \field{year}{2019}
+  \endentry
+
+  \entry{peng2021end}{article}{}
+    \name{author}{7}{}{%
+      {{hash=PB}{%
+         family={Peng},
+         familyi={P\bibinitperiod},
+         given={Baiyu},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SQ}{%
+         family={Sun},
+         familyi={S\bibinitperiod},
+         given={Qi},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=LSE}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Shengbo\bibnamedelima Eben},
+         giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=KD}{%
+         family={Kum},
+         familyi={K\bibinitperiod},
+         given={Dongsuk},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=YY}{%
+         family={Yin},
+         familyi={Y\bibinitperiod},
+         given={Yuming},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Wei},
+         familyi={W\bibinitperiod},
+         given={Junqing},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=GT}{%
+         family={Gu},
+         familyi={G\bibinitperiod},
+         given={Tianyu},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{PBSQLSE+1}
+    \strng{fullhash}{PBSQLSEKDYYWJGT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{328\bibrangedash 337}
+    \field{title}{End-to-end autonomous driving through dueling double deep
+  Q-network}
+    \field{volume}{4}
+    \field{journaltitle}{Automotive Innovation}
+    \field{year}{2021}
+  \endentry
+
+  \entry{knox2023reward}{article}{}
+    \name{author}{5}{}{%
+      {{hash=KWB}{%
+         family={Knox},
+         familyi={K\bibinitperiod},
+         given={W\bibnamedelima Bradley},
+         giveni={W\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=AA}{%
+         family={Allievi},
+         familyi={A\bibinitperiod},
+         given={Alessandro},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BH}{%
+         family={Banzhaf},
+         familyi={B\bibinitperiod},
+         given={Holger},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=SF}{%
+         family={Schmitt},
+         familyi={S\bibinitperiod},
+         given={Felix},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Stone},
+         familyi={S\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{KWBAABH+1}
+    \strng{fullhash}{KWBAABHSFSP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{103829}
+    \field{title}{Reward (mis) design for autonomous driving}
+    \field{volume}{316}
+    \field{journaltitle}{Artificial Intelligence}
+    \field{year}{2023}
+  \endentry
+
+  \entry{chen2023end}{article}{}
+    \name{author}{6}{}{%
+      {{hash=CL}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Li},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=WP}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={Penghao},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=CK}{%
+         family={Chitta},
+         familyi={C\bibinitperiod},
+         given={Kashyap},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=JB}{%
+         family={Jaeger},
+         familyi={J\bibinitperiod},
+         given={Bernhard},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Geiger},
+         familyi={G\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LH}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Hongyang},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CLWPCK+1}
+    \strng{fullhash}{CLWPCKJBGALH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{End-to-end Autonomous Driving: Challenges and Frontiers}
+    \field{journaltitle}{arXiv preprint arXiv:2306.16927}
+    \field{year}{2023}
+  \endentry
+
+  \entry{huang2023reparameterized}{article}{}
+    \name{author}{6}{}{%
+      {{hash=HZ}{%
+         family={Huang},
+         familyi={H\bibinitperiod},
+         given={Zhiao},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=LL}{%
+         family={Liang},
+         familyi={L\bibinitperiod},
+         given={Litian},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=LZ}{%
+         family={Ling},
+         familyi={L\bibinitperiod},
+         given={Zhan},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=LX}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Xuanlin},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=GC}{%
+         family={Gan},
+         familyi={G\bibinitperiod},
+         given={Chuang},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=SH}{%
+         family={Su},
+         familyi={S\bibinitperiod},
+         given={Hao},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HZLLLZ+1}
+    \strng{fullhash}{HZLLLZLXGCSH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Reparameterized Policy Learning for Multimodal Trajectory
+  Optimization}
+    \field{year}{2023}
+  \endentry
+
+  \entry{hu2022model}{article}{}
+    \name{author}{9}{}{%
+      {{hash=HA}{%
+         family={Hu},
+         familyi={H\bibinitperiod},
+         given={Anthony},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CG}{%
+         family={Corrado},
+         familyi={C\bibinitperiod},
+         given={Gianluca},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=GN}{%
+         family={Griffiths},
+         familyi={G\bibinitperiod},
+         given={Nicolas},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=MZ}{%
+         family={Murez},
+         familyi={M\bibinitperiod},
+         given={Zachary},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=GC}{%
+         family={Gurau},
+         familyi={G\bibinitperiod},
+         given={Corina},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=YH}{%
+         family={Yeo},
+         familyi={Y\bibinitperiod},
+         given={Hudson},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Kendall},
+         familyi={K\bibinitperiod},
+         given={Alex},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CR}{%
+         family={Cipolla},
+         familyi={C\bibinitperiod},
+         given={Roberto},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Shotton},
+         familyi={S\bibinitperiod},
+         given={Jamie},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HACGGN+1}
+    \strng{fullhash}{HACGGNMZGCYHKACRSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{20703\bibrangedash 20716}
+    \field{title}{Model-based imitation learning for urban driving}
+    \field{volume}{35}
+    \field{journaltitle}{Advances in Neural Information Processing Systems}
+    \field{year}{2022}
+  \endentry
+
+  \entry{sorge2019motion}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SF}{%
+         family={Sorge},
+         familyi={S\bibinitperiod},
+         given={Francesco},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {SAGE Publications Sage UK: London, England}%
+    }
+    \strng{namehash}{SF1}
+    \strng{fullhash}{SF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{8}
+    \field{pages}{2615\bibrangedash 2635}
+    \field{title}{Motion and force analysis of slow-speed multi-trailer
+  systems}
+    \field{volume}{233}
+    \field{journaltitle}{Proceedings of the Institution of Mechanical
+  Engineers, Part C: Journal of Mechanical Engineering Science}
+    \field{year}{2019}
+  \endentry
+
+  \entry{liu2019minimum}{article}{}
+    \name{author}{3}{}{%
+      {{hash=LX}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Xuanzuo},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=MAK}{%
+         family={Madhusudhanan},
+         familyi={M\bibinitperiod},
+         given={Anil\bibnamedelima K},
+         giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=CD}{%
+         family={Cebon},
+         familyi={C\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{LXMAKCD1}
+    \strng{fullhash}{LXMAKCD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{5}
+    \field{pages}{4367\bibrangedash 4376}
+    \field{title}{Minimum swept-path control for autonomous reversing of a
+  tractor semi-trailer}
+    \field{volume}{68}
+    \field{journaltitle}{IEEE Transactions on Vehicular Technology}
+    \field{year}{2019}
+  \endentry
+
+  \entry{lei2021research}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LG}{%
+         family={Lei},
+         familyi={L\bibinitperiod},
+         given={Guannan},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=ZY}{%
+         family={Zheng},
+         familyi={Z\bibinitperiod},
+         given={Yili},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{LGZY1}
+    \strng{fullhash}{LGZY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{64209\bibrangedash 64221}
+    \field{title}{Research on cooperative trajectory planning algorithm based
+  on tractor-trailer wheeled robot}
+    \field{volume}{10}
+    \field{journaltitle}{IEEE Access}
+    \field{year}{2021}
+  \endentry
+
+  \entry{polack2017kinematic}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=PP}{%
+         family={Polack},
+         familyi={P\bibinitperiod},
+         given={Philip},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=AF}{%
+         family={Altch{\'e}},
+         familyi={A\bibinitperiod},
+         given={Florent},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=dNB}{%
+         prefix={d'Andr{\'e}a},
+         prefixi={d\bibinitperiod},
+         family={Novel},
+         familyi={N\bibinitperiod},
+         given={Brigitte},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=dLFA}{%
+         prefix={de},
+         prefixi={d\bibinitperiod},
+         family={La\bibnamedelima Fortelle},
+         familyi={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+         given={Arnaud},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{PPAFNBd+1}
+    \strng{fullhash}{PPAFNBdLFAd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2017 IEEE intelligent vehicles symposium (IV)}
+    \field{pages}{812\bibrangedash 818}
+    \field{title}{The kinematic bicycle model: A consistent model for planning
+  feasible trajectories for autonomous vehicles?}
+    \field{year}{2017}
+  \endentry
+
+  \entry{abraham2013trailer}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AS}{%
+         family={Abraham},
+         familyi={A\bibinitperiod},
+         given={Shant},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=NJ}{%
+         family={Nilsson},
+         familyi={N\bibinitperiod},
+         given={Johan},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ASNJ1}
+    \strng{fullhash}{ASNJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Trailer parking assist}
+    \field{year}{2013}
+  \endentry
+
+  \entry{brockett2015finite}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BRW}{%
+         family={Brockett},
+         familyi={B\bibinitperiod},
+         given={Roger\bibnamedelima W},
+         giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {SIAM}%
+    }
+    \strng{namehash}{BRW1}
+    \strng{fullhash}{BRW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Finite dimensional linear systems}
+    \field{year}{2015}
+  \endentry
+
+  \entry{altafini2001feedback}{article}{}
+    \name{author}{3}{}{%
+      {{hash=AC}{%
+         family={Altafini},
+         familyi={A\bibinitperiod},
+         given={Claudio},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Speranzon},
+         familyi={S\bibinitperiod},
+         given={Alberto},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=WB}{%
+         family={Wahlberg},
+         familyi={W\bibinitperiod},
+         given={Bo},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{ACSAWB1}
+    \strng{fullhash}{ACSAWB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{6}
+    \field{pages}{915\bibrangedash 922}
+    \field{title}{A feedback control scheme for reversing a truck and trailer
+  vehicle}
+    \field{volume}{17}
+    \field{journaltitle}{IEEE Transactions on robotics and automation}
+    \field{year}{2001}
+  \endentry
+
+  \entry{altafini1999controllability}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AC}{%
+         family={Altafini},
+         familyi={A\bibinitperiod},
+         given={Claudio},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{AC1}
+    \strng{fullhash}{AC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2}
+    \field{pages}{2169\bibrangedash 2174}
+    \field{title}{Controllability and singularities in the n-trailer system
+  with kingpin hitching}
+    \field{volume}{32}
+    \field{journaltitle}{IFAC Proceedings Volumes}
+    \field{year}{1999}
+  \endentry
+
+  \entry{dubins1957curves}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DLE}{%
+         family={Dubins},
+         familyi={D\bibinitperiod},
+         given={Lester\bibnamedelima E},
+         giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {JSTOR}%
+    }
+    \strng{namehash}{DLE1}
+    \strng{fullhash}{DLE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{3}
+    \field{pages}{497\bibrangedash 516}
+    \field{title}{On curves of minimal length with a constraint on average
+  curvature, and with prescribed initial and terminal positions and tangents}
+    \field{volume}{79}
+    \field{journaltitle}{American Journal of mathematics}
+    \field{year}{1957}
+  \endentry
+
+  \entry{lehtomaki1981robustness}{article}{}
+    \name{author}{3}{}{%
+      {{hash=LN}{%
+         family={Lehtomaki},
+         familyi={L\bibinitperiod},
+         given={Norman},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=SN}{%
+         family={Sandell},
+         familyi={S\bibinitperiod},
+         given={NJAM},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=AM}{%
+         family={Athans},
+         familyi={A\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ieee}%
+    }
+    \strng{namehash}{LNSNAM1}
+    \strng{fullhash}{LNSNAM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{75\bibrangedash 93}
+    \field{title}{Robustness results in linear-quadratic Gaussian based
+  multivariable control designs}
+    \field{volume}{26}
+    \field{journaltitle}{IEEE Transactions on Automatic Control}
+    \field{year}{1981}
+  \endentry
+
+  \entry{schwenzer2021review}{article}{}
+    \name{author}{4}{}{%
+      {{hash=SM}{%
+         family={Schwenzer},
+         familyi={S\bibinitperiod},
+         given={Max},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=AM}{%
+         family={Ay},
+         familyi={A\bibinitperiod},
+         given={Muzaffer},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BT}{%
+         family={Bergs},
+         familyi={B\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=AD}{%
+         family={Abel},
+         familyi={A\bibinitperiod},
+         given={Dirk},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{SMAMBT+1}
+    \strng{fullhash}{SMAMBTAD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{5-6}
+    \field{pages}{1327\bibrangedash 1349}
+    \field{title}{Review on model predictive control: An engineering
+  perspective}
+    \field{volume}{117}
+    \field{journaltitle}{The International Journal of Advanced Manufacturing
+  Technology}
+    \field{year}{2021}
+  \endentry
+
+  \entry{Yan_Zohdy_Shaout_Mahmoud_2023}{article}{}
+    \name{author}{4}{}{%
+      {{hash=YH}{%
+         family={Yan},
+         familyi={Y\bibinitperiod},
+         given={Hao},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=ZMA}{%
+         family={Zohdy},
+         familyi={Z\bibinitperiod},
+         given={Mohamed\bibnamedelima A},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Shaout},
+         familyi={S\bibinitperiod},
+         given={Abdelrahman},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Mahmoud},
+         familyi={M\bibinitperiod},
+         given={Amr},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YHZMASA+1}
+    \strng{fullhash}{YHZMASAMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.14738/tecs.114.15355
+    \endverb
+    \field{number}{4}
+    \field{pages}{124–142}
+    \field{title}{Recurrent Proximal Policy Optimization Based Tractor-Trailer
+  Wheeled Robot Automatic Parking Algorithm}
+    \verb{url}
+    \verb https://journals.scholarpublishing.org/index.php/TMLAI/article/view/1
+    \verb 5355
+    \endverb
+    \field{volume}{11}
+    \field{journaltitle}{Transactions on Engineering and Computing Sciences}
+    \field{year}{2023}
+  \endentry
+
+  \entry{schulman2017proximal}{article}{}
+    \name{author}{5}{}{%
+      {{hash=SJ}{%
+         family={Schulman},
+         familyi={S\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WF}{%
+         family={Wolski},
+         familyi={W\bibinitperiod},
+         given={Filip},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=DP}{%
+         family={Dhariwal},
+         familyi={D\bibinitperiod},
+         given={Prafulla},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Radford},
+         familyi={R\bibinitperiod},
+         given={Alec},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KO}{%
+         family={Klimov},
+         familyi={K\bibinitperiod},
+         given={Oleg},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SJWFDP+1}
+    \strng{fullhash}{SJWFDPRAKO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Proximal policy optimization algorithms}
+    \field{journaltitle}{arXiv preprint arXiv:1707.06347}
+    \field{year}{2017}
+  \endentry
+
+  \entry{schulman2015trust}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=SJ}{%
+         family={Schulman},
+         familyi={S\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Levine},
+         familyi={L\bibinitperiod},
+         given={Sergey},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=AP}{%
+         family={Abbeel},
+         familyi={A\bibinitperiod},
+         given={Pieter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=JM}{%
+         family={Jordan},
+         familyi={J\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MP}{%
+         family={Moritz},
+         familyi={M\bibinitperiod},
+         given={Philipp},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {PMLR}%
+    }
+    \strng{namehash}{SJLSAP+1}
+    \strng{fullhash}{SJLSAPJMMP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{International conference on machine learning}
+    \field{pages}{1889\bibrangedash 1897}
+    \field{title}{Trust region policy optimization}
+    \field{year}{2015}
+  \endentry
+
+  \entry{lioutikov2014sample}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=LR}{%
+         family={Lioutikov},
+         familyi={L\bibinitperiod},
+         given={Rudolf},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Paraschos},
+         familyi={P\bibinitperiod},
+         given={Alexandros},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=PJ}{%
+         family={Peters},
+         familyi={P\bibinitperiod},
+         given={Jan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=NG}{%
+         family={Neumann},
+         familyi={N\bibinitperiod},
+         given={Gerhard},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{LRPAPJ+1}
+    \strng{fullhash}{LRPAPJNG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2014 IEEE international conference on robotics and
+  automation (ICRA)}
+    \field{pages}{3896\bibrangedash 3902}
+    \field{title}{Sample-based informationl-theoretic stochastic optimal
+  control}
+    \field{year}{2014}
+  \endentry
+
+  \entry{deisenroth2011pilco}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=DM}{%
+         family={Deisenroth},
+         familyi={D\bibinitperiod},
+         given={Marc},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RCE}{%
+         family={Rasmussen},
+         familyi={R\bibinitperiod},
+         given={Carl\bibnamedelima E},
+         giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DMRCE1}
+    \strng{fullhash}{DMRCE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the 28th International Conference on
+  machine learning (ICML-11)}
+    \field{pages}{465\bibrangedash 472}
+    \field{title}{PILCO: A model-based and data-efficient approach to policy
+  search}
+    \field{year}{2011}
+  \endentry
+
+  \entry{nagabandi2018neural}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=NA}{%
+         family={Nagabandi},
+         familyi={N\bibinitperiod},
+         given={Anusha},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KG}{%
+         family={Kahn},
+         familyi={K\bibinitperiod},
+         given={Gregory},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=FRS}{%
+         family={Fearing},
+         familyi={F\bibinitperiod},
+         given={Ronald\bibnamedelima S},
+         giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Levine},
+         familyi={L\bibinitperiod},
+         given={Sergey},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{NAKGFRS+1}
+    \strng{fullhash}{NAKGFRSLS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2018 IEEE international conference on robotics and
+  automation (ICRA)}
+    \field{pages}{7559\bibrangedash 7566}
+    \field{title}{Neural network dynamics for model-based deep reinforcement
+  learning with model-free fine-tuning}
+    \field{year}{2018}
+  \endentry
+\enddatalist
+\endinput

@@ -1,0 +1,157 @@
+\chapter{\leavevmode\newline Dissertation Work Plan }
+\chaptermark{Heading on Chapter Pages}
+\label{chap: Dissertation Work Plan}
+
+\section{Dissertation Progresses Work}
+
+
+\section*{Phase 1: Preliminary Analysis and Model Development }
+
+\begin{enumerate}
+    \item \textbf{Literature Review}:
+    \begin{itemize}
+        \item Study existing literature on truck-trailer dynamics, reverse parking algorithms, and model-based reinforcement learning applications in vehicle control.
+        \item Identify gaps in current methodologies and potential improvements.
+    \end{itemize}
+    
+    \item \textbf{Data Collection}:
+    \begin{itemize}
+        \item Gather data on truck-trailer dynamics during reverse parking maneuvers. This can include sensor data, camera feeds, and other relevant telemetry.
+        \item Use simulators if real-world data collection is challenging or risky.
+    \end{itemize}
+    
+    \item \textbf{Model Development}:
+    \begin{itemize}
+        \item Develop a dynamic model of the truck-trailer system. This model should capture the kinematics and dynamics of reverse parking.
+        \item Validate the model using collected data or through simulation environments.
+    \end{itemize}
+\end{enumerate}
+
+\section*{Phase 2: Reinforcement Learning Framework and Simulation }
+\begin{enumerate}
+    \item \textbf{RL Environment Setup}:
+    \begin{itemize}
+        \item Define the state space (positions, angles, velocities), action space (steering angles, acceleration), and reward function (based on parking accuracy, safety, and maneuver time).
+        \item Set up terminal conditions, such as successful parking or collision scenarios.
+    \end{itemize}
+    
+    \item \textbf{Algorithm Selection and Development}:
+    \begin{itemize}
+        \item Choose an appropriate model-based RL algorithm. Consider algorithms that can efficiently utilize the truck-trailer model to simulate future trajectories.
+        \item Implement the algorithm and integrate it with the dynamic model.
+    \end{itemize}
+    
+    \item \textbf{Simulation and Testing}:
+    \begin{itemize}
+        \item Use a high-fidelity simulator to test the RL agent's performance. Ensure the simulator can accurately replicate real-world parking scenarios.
+        \item Iteratively train the agent, refining the model and RL algorithm based on simulation results.
+    \end{itemize}
+\end{enumerate}
+
+\section*{Phase 3: Comparative Analysis with Other Control Algorithms}
+\begin{enumerate}
+    \item \textbf{Selection of Control Algorithms}:
+    \begin{itemize}
+        \item Identify other prominent control algorithms used for truck-trailer reverse parking, such as LQR, MPC, or other traditional methods.
+    \end{itemize}
+    
+    \item \textbf{Implementation and Testing}:
+    \begin{itemize}
+        \item Implement the selected control algorithms in the simulation environment.
+        \item Test each algorithm under similar conditions to ensure a fair comparison.
+    \end{itemize}
+    
+    \item \textbf{Performance Evaluation}:
+    \begin{itemize}
+        \item Evaluate the performance of each algorithm based on criteria like parking accuracy, safety, time taken, and control smoothness.
+        \item Compare the results of the model-based RL approach with the results of the other algorithms.
+    \end{itemize}
+    
+    \item \textbf{Analysis and Reporting}:
+    \begin{itemize}
+        \item Analyze the strengths and weaknesses of the model-based RL approach in comparison to the other algorithms.
+        \item Document findings, insights, and potential areas for improvement or further research.
+    \end{itemize}
+\end{enumerate}
+
+
+\section{Deliverables}
+This research aims to explore the potential of model-based reinforcement learning (MBRL) in the domain of truck-trailer reverse parking control. The objective is to develop an efficient and robust control strategy that can outperform traditional methods. The deliverables outlined below provide a comprehensive overview of the expected outcomes, tools, and documentation that will be produced during the research process.
+
+\begin{enumerate}
+    \item \textbf{Dynamic Model of the Truck-Trailer System}:
+    \begin{itemize}
+        \item A mathematical representation capturing the kinematics and dynamics of the truck-trailer during reverse parking maneuvers.
+        \item Validation results comparing the model's predictions with simulation or real-world data.
+    \end{itemize}
+    
+    \item \textbf{Benchmark Control Algorithms based on Trarditional Algorithms}:
+    \begin{itemize}
+        \item Dubins path planning for reverse parking path generation
+        \item A* path planning for spot search and trajectory generation
+        \item LQR controller
+        \item MPC controller
+    \end{itemize}
+    
+    \item \textbf{Reinforcement Learning Framework}:
+    \begin{itemize}
+        \item Detailed documentation of the chosen DQN RL algorithm, including its advantages and limitations.
+        \item Detailed documentation of the chosen PPO RL algorithm, including its advantages and limitations.
+        \item Detailed documentation of the chosen model-based RL algorithm, including its advantages and limitations.
+        \item Source code of the implemented RL algorithm, accompanied by comments and usage instructions.
+    \end{itemize}
+    
+    \item \textbf{Simulation Results}:
+    \begin{itemize}
+        \item A comprehensive report detailing the performance of the RL agent in various simulated scenarios.
+        \item Visual aids such as graphs, plots, and possibly videos showcasing the agent's performance.
+    \end{itemize}
+    
+    \item \textbf{Comparative Analysis}:
+    \begin{itemize}
+        \item A structured comparison between the MBRL approach and other control algorithms.
+        \item Performance metrics, challenges faced, and potential areas of improvement for each method.
+    \end{itemize}
+    
+    \item \textbf{Software Tools and Utilities}:
+    \begin{itemize}
+        \item Any custom software or utilities developed during the research, including simulation tools, data processing scripts, and visualization aids.
+        \item Documentation and user manuals for these tools, ensuring future researchers or collaborators can utilize them effectively.
+    \end{itemize}
+    
+    \item \textbf{Final Thesis}:
+    \begin{itemize}
+        \item A comprehensive document detailing the entire research process, methodologies, results, and conclusions.
+        \item Recommendations for future research or potential real-world applications of the developed MBRL approach.
+    \end{itemize}
+\end{enumerate}
+
+\section{Research Schedule}
+
+The following is the coursework layout and dissertation schedule separated by milestones and months:
+
+\begin{enumerate}
+\item \textbf{Model Development and Validation (September 2023 - December 2023)}
+\begin{itemize}
+    \item Develop and validate the dynamic model of the truck-trailer system.
+    \item Begin preliminary work on the benchmark control algorithms based on traditional methods.
+\end{itemize}
+
+\item \textbf{Reinforcement Learning Framework Development (November 2023 - March 2024)}
+\begin{itemize}
+    \item Implement and test the chosen DQN, TD3, and model-based RL algorithms.
+    \item Start simulations and gather initial results.
+\end{itemize}
+
+\item \textbf{Comparative Analysis and Refinement (April 2024 - May 2024)}
+\begin{itemize}
+    \item Conduct a structured comparison between the MBRL approach and other control algorithms.
+    \item Refine and optimize the RL algorithms based on the comparative analysis.
+\end{itemize}
+
+\item \textbf{Finalization and Thesis Writing (July 2024 - August 2024)}
+\begin{itemize}
+    \item Finalize all research components, including software tools and utilities.
+    \item Write, review, and finalize the PhD thesis.
+\end{itemize}
+\end{enumerate}
